@@ -6,7 +6,7 @@ dmenu is an efficient dynamic menu for X ([suckless.org](https://tools.suckless.
 
 Based on version 5.0.
 
-Patches:
+Patch:
 
 * [xresources](https://tools.suckless.org/dmenu/patches/xresources/): lets Xresources handle color.
 
